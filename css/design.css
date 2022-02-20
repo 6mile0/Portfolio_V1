@@ -1,0 +1,77 @@
+body {
+  font-family: 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+  background-image: url('../img/back.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3.main-text {
+    color:rgba(250, 155, 59, 0.94);
+}
+.img-pro {
+    border-radius: 50%;
+    width:  100px;
+    height: 100px;
+}
+.toumei {
+    background-color: rgba(0,0,255,0);
+}
+.hako {
+    margin : 10px ;
+    padding: 10px;
+    background: #fff;
+    border: 2px #ccc solid;
+    box-shadow: 0 1px 2px 0 #ddd;
+    -moz-box-shadow: 0 2px 3px 0 #ddd;
+    -webkit-box-shadow: 0 2px 3px 0 #ddd;
+}
+.gazou img{
+  	transition: 0.3s;
+}
+.sen {
+    padding: 20px;
+    border: 2px #a7a7a7 solid;
+    background: #fff;
+    box-shadow: 0 2px 3px 0 #ddd;
+    -moz-box-shadow: 0 2px 3px 0 #ddd;
+    -webkit-box-shadow: 0 2px 3px 0 #ddd;
+}
+.sen1 {
+    padding: 10px;
+    border: 2px #a7a7a7 solid;
+    background: #fff;
+}
+.copyright {
+    color: #000;
+    background: rgba(255, 255, 255, 0.63);
+}
+.gazou img:hover{
+		-webkit-transform: scale(1.1);
+		-moz-transform: scale(1.1);
+		-ms-transform: scale(1.1);
+		-o-transform: scale(1.1);
+		transform: scale(1.1);
+}
+
+.line {
+    line-height: 50px;
+}
+
+.i-tag {
+    color: #ffb100;
+}
+.i-tag2 {
+    color: #5426ed;
+}
+.haba {
+    padding: 8px;
+}
+.name-font { 
+    font-family: 'Nunito', sans-serif;
+}
+
+a.link {
+    color: #000;
+}
+a:hover.link {
+    color: #5f5f5f;
+}
